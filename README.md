@@ -107,4 +107,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries or feedback, please contact [viahalyadav0987@gmail.com].
+For any inquiries or feedback, please contact [keerthanams1155@gmail.com].
